@@ -19,6 +19,6 @@ def document_analyzer():
 
     print()
     for j in final_sorted_dict :
-        print(j[0], ":", j[1])
+        print(f'{j[0]}: {j[1]}')
 
 document_analyzer()
