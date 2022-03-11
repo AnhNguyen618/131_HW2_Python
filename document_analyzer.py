@@ -19,5 +19,5 @@ final_sorted_dict =list(sorted_dict)[:5]
 
 print()
 for j in final_sorted_dict :
-    print(j[0], ": ", j[1])
+    print(j[0], ":", j[1])
    
